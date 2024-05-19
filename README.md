@@ -33,4 +33,5 @@ Enhanced my skills in JavaScript programming, particularly in handling user inpu
 Learned about UI/UX design principles for creating intuitive interfaces.<br>
 Feel free to replace placeholders like "#", which indicate where you could include screenshots or live demo links, with the actual links or images from your calculator project. This content structure should give a clear overview of your<br> calculator app and your contributions to the project.<br>
 
-https://github.com/webHimanshusingh/website-Caculator/assets/170223793/3ded6b2c-d1a8-4d52-9176-19d38fa1e4a3
+![Screenshot 2024-05-19 151428](https://github.com/webHimanshusingh/website-Caculator/assets/170223793/3eb34a90-beea-489e-ab5c-507f7996f0f8)
+
