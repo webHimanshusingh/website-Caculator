@@ -34,4 +34,4 @@ Learned about UI/UX design principles for creating intuitive interfaces.<br>
 Feel free to replace placeholders like "#", which indicate where you could include screenshots or live demo links, with the actual links or images from your calculator project. This content structure should give a clear overview of your<br> calculator app and your contributions to the project.<br>
 
 ![Screenshot 2024-05-19 151428](https://github.com/webHimanshusingh/website-Caculator/assets/170223793/3eb34a90-beea-489e-ab5c-507f7996f0f8)
-
+![Screenshot 2024-05-19 151527](https://github.com/webHimanshusingh/website-Caculator/assets/170223793/c5548aa0-18f7-4cb1-8d67-00ee8cb1c943)
