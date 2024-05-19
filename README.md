@@ -4,6 +4,7 @@ This is my Caculator
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
 GitHub- https://github.com/webHimanshusingh<br>
 
+<h1>Join us</h1>
 Calculator Project Overview<br>
 1. Project Title: Simple Calculator App<br>
 2. Description:<br>
